@@ -1,0 +1,66 @@
+{
+  "communityId": "c1",
+  "communityName": "Rancho Mirage (POC)",
+  "communityCode": "COMMUNITY-POC-2026",
+  "builderAccessCode": "builder-demo-1234",
+  "plans": [
+    {
+      "id": "plan1",
+      "name": "Daffodil II",
+      "planNo": "1001",
+      "sqft": 2150
+    },
+    {
+      "id": "plan2",
+      "name": "Goldenrod II",
+      "planNo": "1002",
+      "sqft": 2380
+    },
+    {
+      "id": "plan3",
+      "name": "Iris II",
+      "planNo": "1003",
+      "sqft": 2550
+    },
+    {
+      "id": "plan4",
+      "name": "Marigold II",
+      "planNo": "1004",
+      "sqft": 2710
+    }
+  ],
+  "tradeCatalog": [
+    {
+      "id": "trade1",
+      "name": "Concrete"
+    },
+    {
+      "id": "trade2",
+      "name": "Framing"
+    },
+    {
+      "id": "trade3",
+      "name": "Plumbing"
+    },
+    {
+      "id": "trade4",
+      "name": "Electrical"
+    },
+    {
+      "id": "trade5",
+      "name": "HVAC"
+    },
+    {
+      "id": "trade6",
+      "name": "Drywall"
+    },
+    {
+      "id": "trade7",
+      "name": "Cabinets"
+    },
+    {
+      "id": "trade8",
+      "name": "Paint"
+    }
+  ]
+}
